@@ -1,0 +1,34 @@
+#profile{
+  margin: 20px;
+  width: 40%;
+  padding: 20px;
+}
+
+#profile:hover{
+  border: 1px solid red;
+  transition: 1s;
+}
+
+#profile:hover h2 {
+  color: red;
+  transition: 1s;
+}
+
+/* 
+.Profile{
+  margin: 20px;
+  width: 40%;
+  padding: 20px;
+}
+
+.Profile:hover{
+  border: 1px solid red;
+  transition: 1s;
+}
+
+.Profile:hover h2 {
+  color: red;
+  transition: 1s;
+} */
+
+  /* /??? */
